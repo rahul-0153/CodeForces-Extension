@@ -1,0 +1,13 @@
+Steps:
+
+1.) Goto chrome Dashboard
+2.) Change the Developer name to yourself
+3.) Zip the folder of your extension
+4.) Upload it at the chrome store
+5.) Fill out the details
+6.) Upload a proper icon
+7.) Set up ss for better understanding
+8.) Specify a category
+9.) Fill out all the options
+10.) Now upload it 
+11.) Your extension is now available at google webstore
